@@ -52,16 +52,16 @@
   },
   {
     "id": 4,
-    "title": "Healthcare Booking App",
-    "description": "A telemedicine platform enabling patients to book appointments, consult doctors via video calls, and manage prescriptions.",
+    "title": "AykaFin Mobile App",
+    "description": "A mobile to manage your income expense , view your family records store important documents",
     "image": null,
     "category": "Mobile App",
     "featured": false,
-    "tech": ["React Native", "Node.js", "PostgreSQL", "WebRTC"],
+    "tech": ["React Native", "Laravel"],
     "highlights": [
-      "Video consultation integration",
-      "Appointment scheduling with reminders",
-      "Secure medical records management",
+      "Income/Expenses Record",
+      "View family record in one click",
+      "Store important documents",
       "Multi-language support"
     ],
     "liveUrl": "#",

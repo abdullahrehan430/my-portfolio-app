@@ -75,7 +75,9 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="#contact"
+            href="https://www.upwork.com/freelancers/~017a325636799ac701?mp_source=share"
+            target="_blank"
+            rel="noopener noreferrer"
             className="ml-4 px-5 py-2 border border-neon-cyan text-neon-cyan font-display text-sm uppercase tracking-wider rounded hover:bg-neon-cyan hover:text-bg-primary transition-all duration-200 neon-glow-cyan"
           >
             Hire Me
@@ -122,7 +124,9 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="#contact"
+              href="https://www.upwork.com/freelancers/~017a325636799ac701?mp_source=share"
+              target="_blank"
+              rel="noopener noreferrer"
               onClick={() => setMobileOpen(false)}
               className="mt-4 px-5 py-3 border border-neon-cyan text-neon-cyan font-display text-sm uppercase tracking-wider rounded text-center hover:bg-neon-cyan hover:text-bg-primary transition-all duration-200"
             >
