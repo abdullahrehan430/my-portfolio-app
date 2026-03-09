@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "FlashLead CRM",
+    "description": "A comprehensive CRM platform built for sales teams to manage leads, track communications, and automate follow-ups across web and mobile.",
+    "image": null,
+    "category": "Full Stack",
+    "featured": true,
+    "tech": ["React Native", "React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "Cross-platform mobile app with React Native",
+      "Web dashboard built with React JS",
+      "Real-time lead tracking and notifications",
+      "Integrated with multiple third-party APIs"
+    ],
+    "liveUrl": "#",
+    "githubUrl": null
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Mobile App",
+    "description": "A high-performance e-commerce mobile application with seamless checkout flow, real-time inventory updates, and push notifications.",
+    "image": null,
+    "category": "Mobile App",
+    "featured": true,
+    "tech": ["React Native", "Node.js", "MongoDB", "Stripe"],
+    "highlights": [
+      "Smooth 60fps animations and transitions",
+      "Offline-first architecture",
+      "Integrated payment processing with Stripe",
+      "Push notifications for order updates"
+    ],
+    "liveUrl": "#",
+    "githubUrl": null
+  },
+  {
+    "id": 3,
+    "title": "Task Management Dashboard",
+    "description": "A project management tool with kanban boards, team collaboration features, and real-time updates built for agile teams.",
+    "image": null,
+    "category": "Web App",
+    "featured": false,
+    "tech": ["React JS", "Node.js", "MongoDB", "Socket.io"],
+    "highlights": [
+      "Drag-and-drop kanban boards",
+      "Real-time collaboration with WebSockets",
+      "Role-based access control",
+      "Activity logs and reporting"
+    ],
+    "liveUrl": "#",
+    "githubUrl": null
+  },
+  {
+    "id": 4,
+    "title": "Healthcare Booking App",
+    "description": "A telemedicine platform enabling patients to book appointments, consult doctors via video calls, and manage prescriptions.",
+    "image": null,
+    "category": "Mobile App",
+    "featured": false,
+    "tech": ["React Native", "Node.js", "PostgreSQL", "WebRTC"],
+    "highlights": [
+      "Video consultation integration",
+      "Appointment scheduling with reminders",
+      "Secure medical records management",
+      "Multi-language support"
+    ],
+    "liveUrl": "#",
+    "githubUrl": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "FlashLead",
+    "tagline": "The Region's Leading Cloud Sales & CRM Platform",
+    "description": "FlashLead is the leading region's cloud software provider of all things sales management, customer support and engagement. A full-suite platform empowering businesses to manage leads, automate sales pipelines, and deliver exceptional customer experiences.",
+    "techStack": ["React JS", "React Native", "Laravel", "PHP", "MySQL"],
+    "category": ["Web", "Mobile", "SaaS"],
+    "liveUrl": "https://www.flashlead.com/",
+    "githubUrl": null,
+    "image": null,
+    "featured": true,
+    "year": 2020,
+    "highlights": [
+      "Sales pipeline management",
+      "Customer support tools",
+      "Cloud-based CRM",
+      "Mobile app (React Native)"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dukany",
+    "tagline": "Your Complete E-Commerce Platform",
+    "description": "Build your website, showcase products, track inventory, accept online payments, and explore endless possibilities. Dukany empowers merchants to launch and scale their online stores with ease.",
+    "techStack": ["React JS", "React Native", "Laravel", "PHP"],
+    "category": ["Web", "Mobile", "E-Commerce"],
+    "liveUrl": "https://dukany.io/",
+    "githubUrl": null,
+    "image": null,
+    "featured": true,
+    "year": 2021,
+    "highlights": [
+      "Custom storefront builder",
+      "Product & inventory management",
+      "Online payments integration",
+      "Mobile shopping app"
+    ]
+  }
+]
