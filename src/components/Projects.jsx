@@ -258,7 +258,7 @@ export default function Projects() {
   const [ref, inView] = useInView({ threshold: 0.1, triggerOnce: true });
 
   return (
-    <section id="projects" className="py-24 px-6 circuit-bg" ref={ref}>
+    <section id="projects" className="py-14 px-6 circuit-bg" ref={ref}>
       <div className="max-w-6xl mx-auto">
         <motion.h2
           initial={{ opacity: 0, y: 30 }}

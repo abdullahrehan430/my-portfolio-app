@@ -27,7 +27,7 @@ export default function Experience() {
   const [ref, inView] = useInView({ threshold: 0.2, triggerOnce: true });
 
   return (
-    <section id="experience" className="py-24 px-6" ref={ref}>
+    <section id="experience" className="py-14 px-6" ref={ref}>
       <div className="max-w-4xl mx-auto">
         <motion.h2
           initial={{ opacity: 0, y: 30 }}

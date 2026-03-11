@@ -35,7 +35,7 @@ export default function Testimonials() {
   const [ref, inView] = useInView({ threshold: 0.2, triggerOnce: true });
 
   return (
-    <section id="testimonials" className="py-24 px-6 circuit-bg" ref={ref}>
+    <section id="testimonials" className="py-14 px-6 circuit-bg" ref={ref}>
       <div className="max-w-6xl mx-auto">
         <motion.h2
           initial={{ opacity: 0, y: 30 }}
