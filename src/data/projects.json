@@ -2,69 +2,204 @@
   {
     "id": 1,
     "title": "FlashLead CRM",
-    "description": "A comprehensive CRM platform built for sales teams to manage leads, track communications, and automate follow-ups across web and mobile.",
-    "image": null,
+    "description": "I helped build FlashLead from the ground up — a CRM that sales teams actually enjoy using. It brings together lead management, call tracking, and team communication into one clean experience across mobile and web.",
+    "images": [
+      "/projects/flashlead/flashlead1.webp",
+      "/projects/flashlead/flashlead2.webp",
+      "/projects/flashlead/flashlead3.webp",
+      "/projects/flashlead/flashlead4.webp"
+    ],
     "category": "Full Stack",
     "featured": true,
     "tech": ["React Native", "React JS", "Laravel", "MySQL"],
     "highlights": [
-      "Cross-platform mobile app with React Native",
-      "Web dashboard built with React JS",
-      "Real-time lead tracking and notifications",
-      "Integrated with multiple third-party APIs"
+      "Dashboard that gives sales reps a real-time snapshot of calls, leads, and meetings at a glance",
+      "Built-in internal chat so teams can respond to leads 3x faster without switching apps",
+      "Detailed lead interaction tracking — every call, note, and follow-up in one place",
+      "Cross-platform experience that feels native on both iOS and Android"
     ],
-    "liveUrl": "#",
+    "liveUrl": "https://www.flashlead.com/",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.directionnorth.flashlead",
+    "iosUrl": "https://apps.apple.com/us/app/flashlead/id1468881014",
     "githubUrl": null
   },
   {
     "id": 2,
-    "title": "E-Commerce Mobile App",
-    "description": "A high-performance e-commerce mobile application with seamless checkout flow, real-time inventory updates, and push notifications.",
-    "image": null,
+    "title": "Dukany",
+    "description": "Dukany is all about empowering local retailers to go digital without the headache. I built the mobile app that lets shop owners manage their online store, send WhatsApp messages to customers, create payment links, and share their social presence — all from their phone.",
+    "images": [
+      "/projects/dukany/dukany1.webp",
+      "/projects/dukany/dukany2.webp",
+      "/projects/dukany/dukany3.webp",
+      "/projects/dukany/dukany4.webp",
+      "/projects/dukany/dukany5.webp",
+      "/projects/dukany/dukany6.webp"
+    ],
     "category": "Mobile App",
     "featured": true,
-    "tech": ["React Native", "Node.js", "MongoDB", "Stripe"],
+    "tech": ["React Native", "Laravel", "REST APIs"],
     "highlights": [
-      "Smooth 60fps animations and transitions",
-      "Offline-first architecture",
-      "Integrated payment processing with Stripe",
-      "Push notifications for order updates"
+      "One-tap access to store management, WhatsApp outreach, and payment link generation",
+      "Clean, minimal dashboard designed for shop owners who aren't tech-savvy",
+      "Multi-language support so retailers can use the app in their preferred language",
+      "Social links hub to connect all their online presence in one spot"
     ],
-    "liveUrl": "#",
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
     "githubUrl": null
   },
   {
     "id": 3,
-    "title": "Task Management Dashboard",
-    "description": "A project management tool with kanban boards, team collaboration features, and real-time updates built for agile teams.",
-    "image": null,
-    "category": "Web App",
-    "featured": false,
-    "tech": ["React JS", "Node.js", "MongoDB", "Socket.io"],
-    "highlights": [
-      "Drag-and-drop kanban boards",
-      "Real-time collaboration with WebSockets",
-      "Role-based access control",
-      "Activity logs and reporting"
+    "title": "100 Roses",
+    "description": "An elegant online flower delivery store based in the UAE. I built a storefront that matches the premium feel of the brand — clean product browsing, easy checkout, and a design that makes you want to send flowers to someone right away.",
+    "images": [
+      "/projects/ecommerce/100_roses.webp"
     ],
-    "liveUrl": "#",
+    "category": "E-Commerce",
+    "featured": true,
+    "tech": ["React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "Premium storefront with curated rose collections and glass vase combos",
+      "Google-rated 4.7 stars — customers love the buying experience",
+      "Tabby integration so customers can pay in installments",
+      "Fully responsive design that looks just as good on mobile"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
+    "githubUrl": null
+  },
+  {
+    "id": 6,
+    "title": "Floral Hub",
+    "description": "Another flower delivery platform I worked on — Floral Hub focuses on special occasions like Valentine's Day and seasonal collections. The client wanted something warm and inviting, and I think we nailed it.",
+    "images": [
+      "/projects/ecommerce/floral_hub.webp"
+    ],
+    "category": "E-Commerce",
+    "featured": false,
+    "tech": ["React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "Seasonal collection pages for Valentine's Day, tulips, and exclusive bouquets",
+      "Clean category navigation that helps customers find exactly what they need",
+      "Phone-based ordering support for customers who prefer a personal touch",
+      "Warm, pink-toned design that perfectly captures the brand's personality"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
+    "githubUrl": null
+  },
+  {
+    "id": 7,
+    "title": "NCD / Wataniya Store",
+    "description": "The online storefront for NCD (Wataniya) — a major electronics retailer. I built a fully Arabic e-commerce experience with seasonal promotions, category browsing, and a layout that handles a huge product catalog without feeling cluttered.",
+    "images": [
+      "/projects/ecommerce/NCD.webp"
+    ],
+    "category": "E-Commerce",
+    "featured": false,
+    "tech": ["React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "RTL Arabic-first design with dynamic Ramadan promotional banners",
+      "Well-organized categories — home appliances, TVs, electricals, and more",
+      "Integrated customer support hotline (6226) right into the shopping flow",
+      "Handles a large product catalog while keeping the browsing experience fast"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
+    "githubUrl": null
+  },
+  {
+    "id": 8,
+    "title": "Adhwa Al Aqsa",
+    "description": "An e-commerce site for a lighting and home decor brand. The client wanted their online presence to feel as trustworthy as their in-store experience, so I built a store that leads with warranty and quality messaging front and center.",
+    "images": [
+      "/projects/ecommerce/adhwa_al_aqsa.webp"
+    ],
+    "category": "E-Commerce",
+    "featured": false,
+    "tech": ["React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "Trust-first branding with warranty and quality guarantee messaging upfront",
+      "Arabic RTL layout with clean product categorization",
+      "Showcases lighting fixtures, home decor, and smart home solutions",
+      "Professional design that bridges the gap between online and in-store shopping"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
+    "githubUrl": null
+  },
+  {
+    "id": 9,
+    "title": "Luqaimat & Chebab",
+    "description": "A food ordering platform for a beloved local dessert brand. Customers can browse the menu, customize toppings, and choose between delivery or pickup — keeping it simple and delicious.",
+    "images": [
+      "/projects/ecommerce/luqaimat_and_chebab.webp"
+    ],
+    "category": "E-Commerce",
+    "featured": false,
+    "tech": ["React JS", "Laravel", "MySQL"],
+    "highlights": [
+      "Delivery and pickup options with a smooth ordering flow",
+      "Menu customization — customers can add toppings and pick their favorites",
+      "10% discount codes built right into the browsing experience",
+      "Brand-matching warm design that feels as cozy as the desserts taste"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
     "githubUrl": null
   },
   {
     "id": 4,
-    "title": "AykaFin Mobile App",
-    "description": "A mobile to manage your income expense , view your family records store important documents",
-    "image": null,
+    "title": "MyNCD (Wataniya)",
+    "description": "A mobile companion app for NCD/Wataniya — one of the biggest electronics retailers in the region. Customers use it to manage warranty cards, track technician visits, view payment history, and keep their profile up to date. The whole UI is right-to-left Arabic-first.",
+    "images": [
+      "/projects/myncd/ncd1.webp",
+      "/projects/myncd/ncd2.webp",
+      "/projects/myncd/ncd3.webp",
+      "/projects/myncd/ncd4.webp"
+    ],
     "category": "Mobile App",
     "featured": false,
+    "tech": ["React Native", "Laravel", "REST APIs"],
+    "highlights": [
+      "Warranty and technician card management — customers can scan and store them digitally",
+      "Full payment history with clear paid/unpaid status and easy-to-read breakdowns",
+      "RTL Arabic interface that feels natural and polished, not like an afterthought",
+      "Direct customer support access with one tap via the 6226 hotline"
+    ],
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
+    "githubUrl": null
+  },
+  {
+    "id": 5,
+    "title": "AykaFin",
+    "description": "AykaFin is a personal finance app I'm really proud of. It helps people take control of their money — track income, expenses, debts, and investments, store important documents, and even manage family finances together. Think of it as your financial life in one place.",
+    "images": [
+      "/projects/aykafin/aykafin_21.43.28.png",
+      "/projects/aykafin/aykafin_21.43.36.png",
+      "/projects/aykafin/aykafin_21.44.14.png",
+      "/projects/aykafin/aykafin_21.44.23.png"
+    ],
+    "category": "Mobile App",
+    "featured": true,
     "tech": ["React Native", "Laravel"],
     "highlights": [
-      "Income/Expenses Record",
-      "View family record in one click",
-      "Store important documents",
-      "Multi-language support"
+      "Beautiful dashboard showing net worth, monthly income vs. expenses, and a financial health score",
+      "Quick actions to log income, expenses, debts, goals, property, investments, and family entries",
+      "Document library to securely store and organize important financial papers",
+      "Family finance management with member roles and permission controls"
     ],
-    "liveUrl": "#",
+    "liveUrl": "",
+    "androidUrl": "",
+    "iosUrl": "",
     "githubUrl": null
   }
 ]

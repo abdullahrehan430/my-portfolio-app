@@ -70,7 +70,7 @@ export default function Hero() {
           className="flex justify-center mb-6"
         >
           <p className="typewriter font-body text-lg sm:text-xl text-neon-magenta inline-block">
-            Senior React Native Developer
+            Senior Mobile App Engineer
           </p>
         </motion.div>
 

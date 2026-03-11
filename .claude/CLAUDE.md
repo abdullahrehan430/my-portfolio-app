@@ -16,7 +16,7 @@
 - **Phone**: +923105599915
 - **Email**: abdullahrehan243@gmail.com
 - **GitHub**: (add when available)
-- **LinkedIn**: (add when available)
+- **LinkedIn**: https://www.linkedin.com/in/abdullah-rehan/
 
 ## Project Structure
 

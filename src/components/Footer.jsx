@@ -11,8 +11,8 @@ const navLinks = [
 
 const socialLinks = [
   { icon: Mail, href: 'mailto:abdullahrehan243@gmail.com', label: 'Email' },
-  { icon: Github, href: '#', label: 'GitHub' },
-  { icon: Linkedin, href: '#', label: 'LinkedIn' },
+  { icon: Github, href: 'https://github.com/abdullahrehan430', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/abdullah-rehan/', label: 'LinkedIn' },
 ];
 
 export default function Footer() {
